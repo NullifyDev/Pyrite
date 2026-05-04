@@ -18,17 +18,17 @@
 
  # Features
 - UI Customisability (Change Layout, Theme using CSS)
-- Node based modding (JS powered modules for tuning the audio recieved by the user)
+- Node based modding (JS-powered modules for tuning the audio recieved by the user)
 - Ability to choose your streaming service (Spotify, Apple Music, SoundCloud, Qobuz)
   
  # Requirements
- - MacOs (13+)
+ - macOS (13+)
  - Storage (not much less than a gig)
  - Paid Streaming Account (as the platforms require this to use Pyrite)
    > Spotify = Spotify Premium
 
    > Apple Music = Base Tier
    
-   > SoundCloud = Souncloud Go/GO+
+   > SoundCloud = SoundCloud Go/GO+
    
    > Qobuz = Base Tier
