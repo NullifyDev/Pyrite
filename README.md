@@ -9,7 +9,7 @@
 
  [Join the Discord Server](https://discord.gg/vNsQHbVWAD)
 
- ## FUND US > HERE
+ ## FUND US > [HERE](.github/FUNDING.yml)
 
  # Showcase
  - img 1
