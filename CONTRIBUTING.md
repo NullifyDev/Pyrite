@@ -8,7 +8,7 @@ You may NOT
 - Request for free usage for streaming as it breaks the [Terms of Service](https://en.wikipedia.org/wiki/Terms_of_service) for utilising the streaming services required
 - Ask for ideological inclusion (Religion ect) as the program is intended to be enjoyed by everyone
 - Attempt to Rebrand the program and sell it under your own name/profile, you will be hit by a [DMCA](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) if you do
-  > please contact us if you want sponsor the project
+  > please contact us if you want sponsor the project monetarily through Ko-Fi
 
 # ADVERTISMENT
 
