@@ -9,6 +9,8 @@
 
  [Join the Discord Server](https://discord.gg/vNsQHbVWAD)
 
+ ## FUND US > HERE
+
  # Showcase
  - img 1
 ##
