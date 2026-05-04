@@ -1,5 +1,5 @@
 # Pyrite
-# An Lightweight music streaming client built for macOS using Swift and SwiftUI, all at arms reach
+# A Lightweight music streaming client built for macOS using Swift and SwiftUI, all at arms reach.
 
 
 {insert image lmfao im lazy to write}
