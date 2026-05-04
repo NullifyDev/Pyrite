@@ -7,6 +7,8 @@
 # Streaming, Simplfied for Everyone
  Pyrite is a custom client for music streaming platforms with customisability and simplicity as its main focus, with the ability to stretch its capabilities to include built in audio measuring tools as a parallel to [Amethyst](https://github.com/Geoxor/Amethyst) while giving as much control (as legally possible) to the [End-User](https://en.wikipedia.org/wiki/End_user)
 
+ [Join the Discord Server](https://discord.gg/vNsQHbVWAD)
+
  # Showcase
  - img 1
 ##
