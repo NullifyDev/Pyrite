@@ -41,3 +41,7 @@
 - ## [PYR0LYSIS](https://github.com/pyr0lysis) > lead developer (frontend/backend)
 - ## [MYTHKYL](https://github.com/MYTH1KL) > interface programming 
 - ## [Aria Florenko](https://github.com/aria-florenko) > website design + translation 
+
+
+# brought to you wholeheartedly by
+<img width="2000" height="1020" alt="pyrolysiscomm" src="https://github.com/user-attachments/assets/6c79593f-2c54-4430-b465-41b1201a055c" />
