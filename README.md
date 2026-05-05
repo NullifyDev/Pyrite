@@ -13,11 +13,13 @@
 
  # Showcase
  - img 1
+   ~ Main Interface 
 ##
  - img 2
+   ~ Node Network for Plugins 
 ##
  - img 3 
-
+   ~ Customization Menu for Interface
  # Features
 - UI Customisability (Change Layout, Theme using CSS)
 - Node based modding (JS-powered modules for tuning the audio recieved by the user)
