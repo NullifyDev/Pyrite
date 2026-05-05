@@ -38,6 +38,6 @@
    > Qobuz = Base Tier
 
 # Developer Team
-- PYR0LYSIS > lead developer (frontend/backend)
-- MYTHKYL > interface programming 
-- Aria Florenko > website design + translation 
+- ## [PYR0LYSIS](https://github.com/pyr0lysis) > lead developer (frontend/backend)
+- ## [MYTHKYL](https://github.com/MYTH1KL) > interface programming 
+- ## [Aria Florenko](https://github.com/aria-florenko) > website design + translation 
