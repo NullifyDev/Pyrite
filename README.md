@@ -36,3 +36,8 @@
    > SoundCloud = SoundCloud Go/GO+
    
    > Qobuz = Base Tier
+
+# Developer Team
+- PYR0LYSIS > lead developer (frontend/backend)
+- MYTHKYL > interface programming 
+- Aria Florenko > website design + translation 
