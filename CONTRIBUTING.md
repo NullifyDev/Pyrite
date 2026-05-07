@@ -1,14 +1,13 @@
 # HOW TO CONTRIBUTE FOR PYRITE?
 
+## Contribution Etiquettes
  You may contribute on the development of "Pyrite" by
- - Giving Feedback on our discord server (linked in the main page)
- - Suggesting Issues on the github tab + comments on it
+ - Giving suggestions and balanced, thorough and in-depth feedback on our Discord server or issues page as Discussion (Discord is linked in the main page). Doesnt have to be too long just clear and concise.
+ - Providing
 
 You may NOT
-- Request for free usage for streaming as it breaks the [Terms of Service](https://en.wikipedia.org/wiki/Terms_of_service) for utilising the streaming services required
-- Ask for ideological inclusion (Religion ect) as the program is intended to be enjoyed by everyone
-- Attempt to Rebrand the program and sell it under your own name/profile, you will be hit by a [DMCA](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) if you do
-  > please contact us if you want sponsor the project monetarily through Ko-Fi
+- Use AI generated code within any parts of the code without extensive and thoroughly backed testing, research and/or benchmarking. Methods used for creating and testing the code snippet(s) in question must be documented in the same pull request and must be replicated by other trusted contributing members of the repository before accepting.
+
 
 # ADVERTISMENT
 
