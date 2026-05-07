@@ -43,6 +43,7 @@
 - ## [Aria Florenko](https://github.com/aria-florenko) > website design + translation 
 - ## [Stromy/Mist](https://github.com/Mistromy) > Backend 
 - ## [{De}Sync](https://www.youtube.com/channel/UCf57GthqVzzC4V6LZ8xKSSA) > Archive and Backup
+- ## [Nullify](https://github.com/NullifyDev) > Website Coding
 
 # special thanks to the following people
  Aejisei , KaniStep, AbatedColt, CelestiaKig, SHIRAOKI, SolarFlare, Tanyaniina, Wuzzerino, Esocrypta, PlutoP, zephyr.flac, Sync, Catto, Maks, SNOWX, mocha.psd
