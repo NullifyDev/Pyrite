@@ -44,6 +44,9 @@
 - ## [Stromy/Mist](https://github.com/Mistromy) > Backend 
 - ## [{De}Sync](https://www.youtube.com/channel/UCf57GthqVzzC4V6LZ8xKSSA) > Archive and Backup
 
+# special thanks to the following people
+ Aejisei , KaniStep, AbatedColt, CelestiaKig, SHIRAOKI, SolarFlare, Tanyaniina, Wuzzerino, Esocrypta, PlutoP, zephyr.flac, Sync, Catto, Maks, SNOWX, mocha.psd
+
 
 # brought to you wholeheartedly by
 <img width="2000" height="1020" alt="pyrolysiscomm" src="https://github.com/user-attachments/assets/6c79593f-2c54-4430-b465-41b1201a055c" />
