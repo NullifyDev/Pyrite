@@ -7,8 +7,10 @@
  - Test and benchmark alternative code that achieve the same result while complying with the code base architecture.
 
 You may NOT
+- Allow AI to contribute to any associated codebases. **AI must remain as a tool of assistance**
 - Use AI generated code within any parts of the code *without* extensive and thoroughly backed testing, research and/or benchmarking. Methods used for creating and testing the code snippet(s) in question must be documented in the same pull request and must be replicated by other trusted contributing members of the repository before accepting.
-- Provide inconsice or incomplete information to other contributors nor send pull requests without a proper description such as your aim and reasonning of the code changes in question. 
+- Provide unclear or incomplete information to other contributors nor send pull requests without a proper description such as your aim and reasonning of the code changes in question.
+  > if at any point in time, AI is used, please state so at the very top of the description, after verifying and validating the correctness of the information.
 
 # ADVERTISMENT
 
