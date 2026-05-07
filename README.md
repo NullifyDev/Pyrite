@@ -42,7 +42,7 @@
 - ## [MYTHKYL](https://github.com/MYTH1KL) > interface programming 
 - ## [Aria Florenko](https://github.com/aria-florenko) > website design + translation 
 - ## [Stromy/Mist](https://github.com/Mistromy) > Backend 
-- ## [Sync](https://www.youtube.com/channel/UCf57GthqVzzC4V6LZ8xKSSA) > Archive and Backup
+- ## [{De}Sync](https://www.youtube.com/channel/UCf57GthqVzzC4V6LZ8xKSSA) > Archive and Backup
 
 
 # brought to you wholeheartedly by
