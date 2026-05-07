@@ -36,9 +36,15 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+Additionally, you may not....
+- Request for free usage for streaming as it breaks the [Terms of Service](https://en.wikipedia.org/wiki/Terms_of_service) for utilising the streaming services required
+- Ask for ideological inclusion as the program is intended for everyone's enjoyment
+- Attempts to Rebrand, sell or conduct unauthorized redistribution of our pieces of software under your own name, profile, development repository or webiste shall lead to legal action via the [DMCA](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) take-down system.
+  > for momentarily sponsoring our efforts and projects, please either contact us or do so via our Ko-Fi
+
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of
+Community leaders and members alike are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
