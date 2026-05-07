@@ -40,7 +40,7 @@ Additionally, you may not....
 - Request for free usage for streaming as it breaks the [Terms of Service](https://en.wikipedia.org/wiki/Terms_of_service) for utilising the streaming services required
 - Ask for ideological inclusion as the program is intended for everyone's enjoyment
 - Attempts to Rebrand, sell or conduct unauthorized redistribution of our pieces of software under your own name, profile, development repository or webiste shall lead to legal action via the [DMCA](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) take-down system.
-  > for momentarily sponsoring our efforts and projects, please either contact us or do so via our Ko-Fi
+  > please contact us if you want sponsor the project monetarily through Ko-Fi
 
 ## Enforcement Responsibilities
 
