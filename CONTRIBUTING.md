@@ -6,7 +6,7 @@
  - Providing
 
 You may NOT
-- Use AI generated code within any parts of the code without extensive and thoroughly backed testing, research and/or benchmarking. Methods used for creating and testing the code snippet(s) in question must be documented in the same pull request and must be replicated by other trusted contributing members of the repository before accepting.
+- Use AI generated code within any parts of the code *without* extensive and thoroughly backed testing, research and/or benchmarking. Methods used for creating and testing the code snippet(s) in question must be documented in the same pull request and must be replicated by other trusted contributing members of the repository before accepting.
 
 
 # ADVERTISMENT
